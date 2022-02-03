@@ -1,0 +1,44 @@
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\bin\Debug\SIPMK.exe.config
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\bin\Debug\SIPMK.exe
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\bin\Debug\SIPMK.pdb
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\bin\Debug\Guna.UI2.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.AssemblyReference.cache
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.DataRuangKelas.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.Login.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.Properties.Resources.resources
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.GenerateResource.cache
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.CoreCompileInputs.cache
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.exe
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.pdb
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\bin\Debug\Guna.UI.dll
+D:\SEMESTER 5\PEMROGRAMAN VISUAL\SIPMK\SIPMK\obj\Debug\SIPMK.Dashboard.resources
+D:\SIPMK\SIPMK\bin\Debug\SIPMK.exe.config
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.exe
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.pdb
+D:\SIPMK\SIPMK\bin\Debug\SIPMK.exe
+D:\SIPMK\SIPMK\bin\Debug\SIPMK.pdb
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.csprojResolveAssemblyReference.cache
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.Dashboard.resources
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.DataRuangKelas.resources
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.Login.resources
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.Properties.Resources.resources
+D:\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\bin\Debug\SIPMK.exe.config
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\bin\Debug\SIPMK.exe
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\bin\Debug\SIPMK.pdb
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.Dashboard.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataRuangKelas.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.Login.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.Properties.Resources.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.exe
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.pdb
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataDosen.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataHari.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataJadwalKuliah.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataUser.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataMataKuliah.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataProdi.resources
+C:\Users\ASUS\Downloads\SIPMK fix\SIPMK\SIPMK\obj\Debug\SIPMK.DataTahunAkademik.resources
